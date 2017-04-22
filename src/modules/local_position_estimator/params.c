@@ -451,4 +451,4 @@ PARAM_DEFINE_FLOAT(LPE_LAND_VXY, 0.05f);
  * @bit 6 flow gyro compensation
  * @bit 7 fuse baro
  */
-PARAM_DEFINE_INT32(LPE_FUSION, 145);
+PARAM_DEFINE_INT32(LPE_FUSION, 28);
